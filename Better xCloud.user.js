@@ -3,8 +3,8 @@
 // @namespace    https://github.com/redphx
 // @version      2
 // @description  Improve Xbox Cloud Gaming (xCloud) experience
-// @author       redphx
-// @license      MIT
+// @author       redphx asdfa
+// @license      mit
 // @match        https://www.xbox.com/*/play*
 // @run-at       document-start
 // @grant        none
